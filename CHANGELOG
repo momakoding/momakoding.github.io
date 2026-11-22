@@ -1,0 +1,13 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
+
+_Update this file before commit. Timestamps use `YYYY-MM-DD HH:MM` format._
+
+## [Unreleased]
+
+### Added
+
+- 2026-11-22 13:24 — Launched the initial Momakoding website scaffold built with Nuxt and Tailwind CSS, published automatically to GitHub Pages.
